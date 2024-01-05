@@ -1,0 +1,22 @@
+<jboss-deployment-structure>
+    <deployment>
+        <!-- Excluye la implementación de WildFly -->
+        <exclude-subsystems>
+            <subsystem name="web"/>
+        </exclude-subsystems>
+        <exclusions>
+            <module name="jakarta.servlet.jsp.api"/>
+            <!-- Otras exclusiones si es necesario -->
+        </exclusions>
+        <dependencies>
+            <!-- Agrega tu propia versión de jakarta.servlet.jsp-api -->
+            <module name="jakarta.servlet.jsp.api" export="true">
+                <imports>
+                    <include path="META-INF"/>
+                    <include path="META-INF/**"/>
+                </imports>
+            </module>
+            <!-- Otras dependencias -->
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>

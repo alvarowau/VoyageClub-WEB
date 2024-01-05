@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="VoyageClub:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c64d3bc8-35ff-4be1-b418-39f78a005f39" name="Changes" comment="creando los jsp" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alvarowau&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb2c0c90-1367-4829-b286-db41c6281018" />
+        <option name="url" value="https://github.com/alvarowau/masNuevo.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2a3Pnnr3ijnfIfsQSHe8tkH4F2f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JBoss/WildFly Server.JBoss/WildFly 30.0.1.Final.executor": "Run",
+    "JUnit.BaseDAOTest.executor": "Run",
+    "JUnit.FacturaTest.constructorConReservasValidas.executor": "Run",
+    "JUnit.FacturaTest.executor": "Run",
+    "JUnit.HotelTest.constructorConNull.executor": "Run",
+    "JUnit.HotelTest.executor": "Run",
+    "JUnit.LuxuryStayTest.executor": "Run",
+    "JUnit.ReservaTest.executor": "Run",
+    "JUnit.UsuarioDAOImplTest.executor": "Run",
+    "JUnit.UsuarioDAOTest.executor": "Run",
+    "JUnit.UsuarioTest.executor": "Run",
+    "Maven.VoyageClub [clean].executor": "Run",
+    "Maven.VoyageClub [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alvar/OneDrive/Escritorio/ProyectoNuevo/masNuevo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.voyageclub.action" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alvar\OneDrive\Escritorio\ProyectoNuevo\masNuevo\src\main\webapp\img" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alvar\OneDrive\Escritorio\ProyectoNuevo\masNuevo\src\main\webapp\img" />
+      <recent name="C:\Users\alvar\OneDrive\Escritorio\ProyectoNuevo\masNuevo\src\main\webapp" />
+      <recent name="C:\Users\alvar\OneDrive\Escritorio\ProyectoNuevo\masNuevo\src\main\webapp\css" />
+      <recent name="C:\Users\alvar\OneDrive\Escritorio\ProyectoNuevo\masNuevo\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.voyageclub.model" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.voyageclub.dao" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BaseDAOTest">
+    <configuration name="JBoss/WildFly 30.0.1.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 30.0.1.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="VoyageClub:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50874" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="VoyageClub:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="BaseDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoyageClub-WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.voyageclub.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.voyageclub.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.voyageclub.dao.BaseDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacturaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoyageClub-WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.voyageclub.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.voyageclub.model" />
+      <option name="MAIN_CLASS_NAME" value="com.voyageclub.model.FacturaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacturaTest.constructorConReservasValidas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoyageClub-WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.voyageclub.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.voyageclub.model" />
+      <option name="MAIN_CLASS_NAME" value="com.voyageclub.model.FacturaTest" />
+      <option name="METHOD_NAME" value="constructorConReservasValidas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoyageClub-WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.voyageclub.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.voyageclub.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.voyageclub.dao.UsuarioDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VoyageClub-WEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.voyageclub.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.voyageclub.model" />
+      <option name="MAIN_CLASS_NAME" value="com.voyageclub.model.UsuarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JBoss/WildFly Server.JBoss/WildFly 30.0.1.Final" />
+      <item itemvalue="JUnit.BaseDAOTest" />
+      <item itemvalue="JUnit.FacturaTest.constructorConReservasValidas" />
+      <item itemvalue="JUnit.FacturaTest" />
+      <item itemvalue="JUnit.UsuarioDAOTest" />
+      <item itemvalue="JUnit.UsuarioTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseDAOTest" />
+        <item itemvalue="JUnit.UsuarioDAOTest" />
+        <item itemvalue="JUnit.UsuarioTest" />
+        <item itemvalue="JUnit.FacturaTest" />
+        <item itemvalue="JUnit.FacturaTest.constructorConReservasValidas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c64d3bc8-35ff-4be1-b418-39f78a005f39" name="Changes" comment="" />
+      <created>1703544462660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703544462660</updated>
+      <workItem from="1703544463756" duration="19501000" />
+      <workItem from="1703599453523" duration="786000" />
+      <workItem from="1703603791375" duration="10295000" />
+      <workItem from="1703615996364" duration="3973000" />
+      <workItem from="1703622728509" duration="9273000" />
+      <workItem from="1703678260693" duration="225000" />
+      <workItem from="1703678504224" duration="8776000" />
+      <workItem from="1703706198124" duration="205000" />
+      <workItem from="1703749767690" duration="17466000" />
+      <workItem from="1703770809077" duration="42000" />
+      <workItem from="1703773018384" duration="12671000" />
+      <workItem from="1703792534850" duration="2392000" />
+      <workItem from="1703837284697" duration="5655000" />
+      <workItem from="1703852310281" duration="6046000" />
+      <workItem from="1703858530424" duration="12454000" />
+      <workItem from="1703875594843" duration="8407000" />
+      <workItem from="1703886915670" duration="2122000" />
+      <workItem from="1703931080860" duration="7726000" />
+      <workItem from="1703939252452" duration="7613000" />
+      <workItem from="1703950505797" duration="31000" />
+      <workItem from="1703950549218" duration="9466000" />
+      <workItem from="1704020319384" duration="5372000" />
+      <workItem from="1704026008556" duration="8804000" />
+      <workItem from="1704132429784" duration="55000" />
+      <workItem from="1704143859038" duration="47000" />
+      <workItem from="1704143915314" duration="12000" />
+      <workItem from="1704392499149" duration="470000" />
+      <workItem from="1704453947788" duration="777000" />
+      <workItem from="1704461722063" duration="117000" />
+    </task>
+    <task id="LOCAL-00001" summary="cambios DAO">
+      <option name="closed" value="true" />
+      <created>1703616041649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703616041649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambios DAO">
+      <option name="closed" value="true" />
+      <created>1703678515100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703678515100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cambios DAO">
+      <option name="closed" value="true" />
+      <created>1703692688030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703692688030</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cambios DAO">
+      <option name="closed" value="true" />
+      <created>1703692746281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703692746281</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creando los jsp">
+      <option name="closed" value="true" />
+      <created>1703931112890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703931112890</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambios DAO" />
+    <MESSAGE value="creando los jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="creando los jsp" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

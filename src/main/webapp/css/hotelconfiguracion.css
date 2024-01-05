@@ -1,0 +1,40 @@
+/* Estilo para el contenedor principal */
+.container {
+    margin-top: 20px;
+    max-width: 100%; /* Ajuste para que el contenedor ocupe todo el ancho disponible */
+}
+
+/* Estilo para el título */
+h2 {
+    color: #007bff; /* Color azul Bootstrap */
+    text-align: left; /* Alinea el texto a la izquierda */
+}
+
+/* Estilo para los botones */
+.btn {
+    margin-right: 5px;
+}
+
+/* Estilo para la tabla */
+.table {
+    margin-top: 15px;
+}
+
+/* Estilo para las imágenes */
+img {
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para los botones de acción */
+.btn-warning,
+.btn-danger {
+    margin: 0;
+    width: 100%; /* Hace que ambos botones tengan el mismo ancho */
+}
+
+/* Estilo para centrar el contenido de las celdas de las acciones */
+td.actions {
+    text-align: center;
+    vertical-align: middle;
+}

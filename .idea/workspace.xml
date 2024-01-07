@@ -9,7 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c64d3bc8-35ff-4be1-b418-39f78a005f39" name="Changes" comment="creando los jsp" />
+    <list default="true" id="c64d3bc8-35ff-4be1-b418-39f78a005f39" name="Changes" comment="creando los jsp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voyageclub/action/FacturaActionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voyageclub/action/FacturaActionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voyageclub/action/LuxuryStayActionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voyageclub/action/LuxuryStayActionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voyageclub/action/ReservaActionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voyageclub/action/ReservaActionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/META-INF/persistence-test.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +57,13 @@
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -67,7 +80,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "GlassFish Server.payara.executor": "Run",
     "JBoss/WildFly Server.JBoss/WildFly 30.0.1.Final.executor": "Run",
+    "JBoss/WildFly Server.JBoss/WildFly 31.executor": "Run",
     "JUnit.BaseDAOTest.executor": "Run",
     "JUnit.FacturaTest.constructorConReservasValidas.executor": "Run",
     "JUnit.FacturaTest.executor": "Run",
@@ -86,6 +101,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/alvar/OneDrive/Escritorio/ProyectoNuevo/masNuevo",
@@ -99,6 +115,11 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -130,8 +151,79 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BaseDAOTest">
-    <configuration name="JBoss/WildFly 30.0.1.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 30.0.1.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+  <component name="RunManager" selected="GlassFish Server.payara">
+    <configuration name="payara" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 6.10.0" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="VoyageClub:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="VoyageClub:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="JBoss/WildFly 31" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="VoyageClub:war exploded">
@@ -142,7 +234,7 @@
         <option name="SERVER" />
         <option name="BINDING_SET_NAME" value="" />
         <option name="DOMAIN" value="false" />
-        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="SERVER_GROUP" />
         <option name="USERNAME" value="" />
         <option name="CREDENTIAL_ALIAS" />
       </server-settings>
@@ -212,6 +304,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.voyageclub.dao" />
       <option name="MAIN_CLASS_NAME" value="com.voyageclub.dao.BaseDAOTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -279,7 +372,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JBoss/WildFly Server.JBoss/WildFly 30.0.1.Final" />
+      <item itemvalue="GlassFish Server.payara" />
+      <item itemvalue="JBoss/WildFly Server.JBoss/WildFly 31" />
       <item itemvalue="JUnit.BaseDAOTest" />
       <item itemvalue="JUnit.FacturaTest.constructorConReservasValidas" />
       <item itemvalue="JUnit.FacturaTest" />
@@ -288,11 +382,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BaseDAOTest" />
-        <item itemvalue="JUnit.UsuarioDAOTest" />
         <item itemvalue="JUnit.UsuarioTest" />
-        <item itemvalue="JUnit.FacturaTest" />
+        <item itemvalue="JUnit.UsuarioDAOTest" />
         <item itemvalue="JUnit.FacturaTest.constructorConReservasValidas" />
+        <item itemvalue="JUnit.FacturaTest" />
+        <item itemvalue="JUnit.BaseDAOTest" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +434,12 @@
       <workItem from="1704392499149" duration="470000" />
       <workItem from="1704453947788" duration="777000" />
       <workItem from="1704461722063" duration="117000" />
+      <workItem from="1704461849835" duration="2541000" />
+      <workItem from="1704487773057" duration="41000" />
+      <workItem from="1704614503681" duration="150000" />
+      <workItem from="1704621565849" duration="235000" />
+      <workItem from="1704621922956" duration="63000" />
+      <workItem from="1704627813224" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="cambios DAO">
       <option name="closed" value="true" />
@@ -381,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703931112890</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="creando los jsp">
+      <option name="closed" value="true" />
+      <created>1704461858232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704461858232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

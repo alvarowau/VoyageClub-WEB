@@ -2,6 +2,7 @@ package com.voyageclub.action;
 
 import com.voyageclub.dao.ReservaDAO;
 import com.voyageclub.model.Reserva;
+import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
@@ -15,6 +16,7 @@ import java.util.Optional;
  * @author Álvaro Bajo
  * @version 1.0
  */
+@ApplicationScoped
 public class ReservaActionImpl implements ReservaAction {
 
     /**
